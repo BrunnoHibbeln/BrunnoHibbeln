@@ -19,6 +19,7 @@
       <img align="center" alt="Brunno-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
       <img align="center" alt="Brunno-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
       <img align="center" alt="Brunno-EJS" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" />
+      <img align="center" alt="Brunno-REACT-ROUTER" height="30" width="30" src="https://iconape.com/wp-content/files/sm/371377/svg/371377.svg" />
   </div>
   
   ##
