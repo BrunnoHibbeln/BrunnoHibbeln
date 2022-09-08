@@ -1,7 +1,7 @@
 ### Opa, eu sou o Brunno Hibbeln
 
 - 💪 Web Developer Javascript jr.
-- 📚 Estudando Node.js e React.js
+- 📚 Estudando Next.js e Redux
 
 ##
 
@@ -12,14 +12,16 @@
 </div>
   
   <div align="center" style="display: inline_block"><br>
-      <img align="center" alt="Brunno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-      <img align="center" alt="Brunno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-      <img align="center" alt="Brunno-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-      <img align="center" alt="Brunno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      <img align="center" alt="Brunno-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-      <img align="center" alt="Brunno-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-      <img align="center" alt="Brunno-EJS" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" />
-      <img align="center" alt="Brunno-REACT-ROUTER" height="30" width="30" src="https://iconape.com/wp-content/files/sm/371377/svg/371377.svg" />
+      <img align="center" alt="Brunno-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+      <img align="center" alt="Brunno-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+      <img align="center" alt="Brunno-SASS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      <img align="center" alt="Brunno-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      <img align="center" alt="Brunno-NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+      <img align="center" alt="Brunno-REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+      <img align="center" alt="Brunno-EJS" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" />
+      <img align="center" alt="Brunno-REACT-ROUTER" height="50" width="50" src="https://iconape.com/wp-content/files/sm/371377/svg/371377.svg" />
+      <img align="center" alt="Brunno-NEXT-JS" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png?20190307203525" />
+      <img align="center" alt="Brunno-NEXT-JS" height="60" width="75" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />
   </div>
   
   ##
