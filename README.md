@@ -1,7 +1,7 @@
-### Opa, eu sou o Brunno Hibbeln
+### Hi there, i'm Brunno Hibbeln.
 
 - 💪 Web Developer Javascript jr.
-- 📚 Estudando Next.js e Redux
+- 📚 Studying Next.js.
 
 ##
 
