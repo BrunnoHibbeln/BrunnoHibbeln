@@ -1,7 +1,6 @@
 ### Hi there, i'm Brunno Hibbeln.
 
-- 💪 Web Developer Javascript jr.
-- 📚 Studying Next.js.
+- 📚 Studying Next.js and Tailwind CSS.
 
 ##
 <!-- 
